@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF122E55-D4A3-4A72-AE9B-9F76F64C8F26}|FurnitureApp\\FurnitureApp.csproj|c:\\users\\fatihgi\\desktop\\backend\\furnitureapp\\furnitureapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF122E55-D4A3-4A72-AE9B-9F76F64C8F26}|FurnitureApp\\FurnitureApp.csproj|solutionrelative:furnitureapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF122E55-D4A3-4A72-AE9B-9F76F64C8F26}|FurnitureApp\\FurnitureApp.csproj|c:\\users\\fatihgi\\desktop\\backend\\furnitureapp\\furnitureapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF122E55-D4A3-4A72-AE9B-9F76F64C8F26}|FurnitureApp\\FurnitureApp.csproj|solutionrelative:furnitureapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF122E55-D4A3-4A72-AE9B-9F76F64C8F26}|FurnitureApp\\FurnitureApp.csproj|c:\\users\\fatihgi\\desktop\\backend\\furnitureapp\\furnitureapp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF122E55-D4A3-4A72-AE9B-9F76F64C8F26}|FurnitureApp\\FurnitureApp.csproj|solutionrelative:furnitureapp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FurnitureApp\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "FurnitureApp\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:44:22.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FurnitureApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\Models\\Product.cs",
+              "RelativeToolTip": "FurnitureApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:44:08.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FurnitureApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FurnitureApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAADsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T08:04:23.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
