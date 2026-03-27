@@ -1,18 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\",
+  "WorkspaceRootPath": "C:\\Backend\\furniture\\furniture-website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF122E55-D4A3-4A72-AE9B-9F76F64C8F26}|FurnitureApp\\FurnitureApp.csproj|c:\\users\\fatihgi\\desktop\\backend\\furnitureapp\\furnitureapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF122E55-D4A3-4A72-AE9B-9F76F64C8F26}|FurnitureApp\\FurnitureApp.csproj|solutionrelative:furnitureapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|c:\\backend\\furniture\\furniture-website\\furnitureapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|solutionrelative:furnitureapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF122E55-D4A3-4A72-AE9B-9F76F64C8F26}|FurnitureApp\\FurnitureApp.csproj|c:\\users\\fatihgi\\desktop\\backend\\furnitureapp\\furnitureapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF122E55-D4A3-4A72-AE9B-9F76F64C8F26}|FurnitureApp\\FurnitureApp.csproj|solutionrelative:furnitureapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|c:\\backend\\furniture\\furniture-website\\furnitureapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|solutionrelative:furnitureapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF122E55-D4A3-4A72-AE9B-9F76F64C8F26}|FurnitureApp\\FurnitureApp.csproj|c:\\users\\fatihgi\\desktop\\backend\\furnitureapp\\furnitureapp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF122E55-D4A3-4A72-AE9B-9F76F64C8F26}|FurnitureApp\\FurnitureApp.csproj|solutionrelative:furnitureapp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|c:\\backend\\furniture\\furniture-website\\furnitureapp\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|solutionrelative:furnitureapp\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|c:\\backend\\furniture\\furniture-website\\furnitureapp\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|solutionrelative:furnitureapp\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|c:\\backend\\furniture\\furniture-website\\furnitureapp\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|solutionrelative:furnitureapp\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|c:\\backend\\furniture\\furniture-website\\furnitureapp\\wwwroot\\admin\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|solutionrelative:furnitureapp\\wwwroot\\admin\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|c:\\backend\\furniture\\furniture-website\\furnitureapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|solutionrelative:furnitureapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|c:\\backend\\furniture\\furniture-website\\furnitureapp\\viewcomponents\\newsletterviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|solutionrelative:furnitureapp\\viewcomponents\\newsletterviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|c:\\backend\\furniture\\furniture-website\\furnitureapp\\viewcomponents\\clientsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DA2D66-2C86-8C9C-B0EC-03FC53D460DA}|FurnitureApp\\FurnitureApp.csproj|solutionrelative:furnitureapp\\viewcomponents\\clientsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +46,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "FurnitureApp\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "FurnitureApp\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\Program.cs",
+              "RelativeDocumentMoniker": "FurnitureApp\\Program.cs",
+              "ToolTip": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\Program.cs",
+              "RelativeToolTip": "FurnitureApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T08:44:22.109Z",
+              "WhenOpened": "2026-03-27T06:56:49.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FurnitureApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FurnitureApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T06:48:43.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FurnitureApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FurnitureApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T06:48:34.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "FurnitureApp\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\Models\\Product.cs",
-              "RelativeToolTip": "FurnitureApp\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T08:44:08.921Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FurnitureApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FurnitureApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGUBAAAAAAAAAAAAAGwBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T06:48:19.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FurnitureApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FurnitureApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAADsAAAACAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FurnitureApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FurnitureApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:44:40.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sb-admin-2.css",
+              "DocumentMoniker": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\wwwroot\\admin\\css\\sb-admin-2.css",
+              "RelativeDocumentMoniker": "FurnitureApp\\wwwroot\\admin\\css\\sb-admin-2.css",
+              "ToolTip": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\wwwroot\\admin\\css\\sb-admin-2.css",
+              "RelativeToolTip": "FurnitureApp\\wwwroot\\admin\\css\\sb-admin-2.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-27T06:43:57.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewsLetterViewComponent.cs",
+              "DocumentMoniker": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\ViewComponents\\NewsLetterViewComponent.cs",
+              "RelativeDocumentMoniker": "FurnitureApp\\ViewComponents\\NewsLetterViewComponent.cs",
+              "ToolTip": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\ViewComponents\\NewsLetterViewComponent.cs",
+              "RelativeToolTip": "FurnitureApp\\ViewComponents\\NewsLetterViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:21:38.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientsViewComponent.cs",
+              "DocumentMoniker": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\ViewComponents\\ClientsViewComponent.cs",
+              "RelativeDocumentMoniker": "FurnitureApp\\ViewComponents\\ClientsViewComponent.cs",
+              "ToolTip": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\ViewComponents\\ClientsViewComponent.cs",
+              "RelativeToolTip": "FurnitureApp\\ViewComponents\\ClientsViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:19:00.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FurnitureApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FurnitureApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-26T08:04:23.332Z",
+              "WhenOpened": "2026-03-27T05:32:52.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

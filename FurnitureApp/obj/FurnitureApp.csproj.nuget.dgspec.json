@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\FurnitureApp.csproj": {}
+    "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\FurnitureApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\FurnitureApp.csproj": {
+    "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\FurnitureApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\FurnitureApp.csproj",
+        "projectUniqueName": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\FurnitureApp.csproj",
         "projectName": "FurnitureApp",
-        "projectPath": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\FurnitureApp.csproj",
-        "packagesPath": "C:\\Users\\fatihgi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatihgi\\Desktop\\BAckend\\FurnitureApp\\FurnitureApp\\obj\\",
+        "projectPath": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\FurnitureApp.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Backend\\furniture\\furniture-website\\FurnitureApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fatihgi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,11 +44,37 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.25, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -69,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
