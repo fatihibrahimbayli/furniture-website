@@ -1,0 +1,41 @@
+﻿using FurnitureApp.Data;
+using FurnitureApp.Models;
+using FurnitureApp.Services.Interfaces;
+using Microsoft.EntityFrameworkCore;
+
+namespace FurnitureApp.Services
+{
+    public class SliderService : ISliderService
+    {
+        private readonly AppDbContext _dbContext;
+        public SliderService(AppDbContext dbContext)
+        {
+            _dbContext = dbContext;
+        }
+        public async Task CreateAsync(Slider slider)
+        {
+            await _dbContext.Sliders.AddAsync(slider);
+            await _dbContext.SaveChangesAsync();
+        }
+
+        public Task DeleteAsync(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<List<Slider>> GetAllAsync()
+        {
+           return await _dbContext.Sliders.ToListAsync();
+        }
+
+        public Task<Slider> GetByIdAsync(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task UpdateAsync(Slider slider)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}
